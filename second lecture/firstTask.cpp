@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-
     int integer;
     char character;
     float complexNumber;
@@ -18,8 +17,8 @@ int main()
     cout << "Enter \"string\" data type: ";
     cin >> text;
 
-    cout << integer;
-    cout << character;
-    cout << complexNumber;
-    cout << text;
+    cout << integer << endl;
+    cout << character << endl;
+    cout << complexNumber << endl;
+    cout << text << endl;
 }
