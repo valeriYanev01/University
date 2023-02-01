@@ -3,11 +3,12 @@
 ## First Semester in University;
 
 LEARNING:
-    *Components of the source code;*
     <br/>
-    *Variables, data types, operations and operands;*
+    - *Components of the source code;*
     <br/>
-    *Ternany operator*
+    - *Variables, data types, operations and operands;*
+    <br/>
+    - *Ternany operator*
     <br/>
 
 ::To be added more in this ReadMe file::
