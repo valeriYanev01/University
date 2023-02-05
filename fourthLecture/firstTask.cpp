@@ -19,16 +19,31 @@ using namespace std;
 // _____________________________________
 // USING DO WHILE LOOP
 
+// int main()
+// {
+//     int number, counter = 1;
+
+//     cout << "Enter a number larger than 1: ";
+//     cin >> number;
+
+//     do
+//     {
+//         cout << counter << endl;
+//         counter++;
+//     } while (counter <= number);
+// }
+
+// _____________________________________
+// USING FOR LOOP
+
 int main()
 {
-    int number, counter = 1;
-
+    unsigned number;
     cout << "Enter a number larger than 1: ";
     cin >> number;
 
-    do
+    for (int i = 1; i <= number; i++)
     {
-        cout << counter << endl;
-        counter++;
-    } while (counter <= number);
+        cout << i << endl;
+    }
 }
