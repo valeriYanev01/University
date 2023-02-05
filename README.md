@@ -10,5 +10,7 @@ LEARNING:
     <br/>
     - *Ternany operator*
     <br/>
+    - *Loops - while, do while, for*
+    <br/>
 
 ::To be added more in this ReadMe file::
